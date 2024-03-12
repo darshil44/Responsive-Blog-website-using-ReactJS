@@ -7,6 +7,8 @@ import Post from './containers/Post';
 import AllPosts from './components/AllPosts';
 import {BrowserRouter as Router, Switch, Route, Link, Redirect} from 'react-router-dom';
 
+
+
 import MainPage from './pages';
 import PageNotFound from './pages/404';
 
